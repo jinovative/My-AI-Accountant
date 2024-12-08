@@ -24,7 +24,7 @@ We are actively working to resolve the issue and aim to resume the service as so
 We apologize for the inconvenience and appreciate your understanding. If you have any questions or concerns, please feel free to reach out.
 
 Thank you.
-
+```
 
 # Tech List
 
